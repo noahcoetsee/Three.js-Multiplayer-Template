@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <title>Three.js Multiplayer Game</title>
+    <meta charset="UTF-8" />
+  </head>
+  <body>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/2.0.3/socket.io.js"></script>
+    <script>
+      var socket = io.connect('http://localhost'); // Connect to the server running socket. In this case, localhost
+      socket.on('news', function (data) {
+        
+      });
+    </script>
+  </body>
+</html>
