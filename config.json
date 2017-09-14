@@ -1,0 +1,12 @@
+{
+  "port": 3000,
+  "logfile": "none",
+  "restrictedClient": false,
+  "database": false,
+  "databaseSettings": {
+    "user": null,
+    "password": null,
+    "host": null,
+    "port": null
+  }
+}
