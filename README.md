@@ -14,13 +14,24 @@
 ### Three.js Multiplayer Template ####
 This is a Socket.io and Express powered template for a multiplayer three.js game using NodeJS.
 
-### USAGE: ###
+### Usage ###
 
 After installing this directory, go into it, and in a terminal, do node app.js and success! You're now running!
 
+Of course, there's a more in depth explanation here:
+
+```
+app.js :: socket.js server
+index.html :: contains connections for all files
+main.js :: three.js and client-side script
+ui.js :: controls for UI (custom-code)
+main.css :: simple container styles to make it appear cleaner on the webpage
+ui.css :: styling for the UI (probably going to be the longest CSS file here)
+```
+
 #### Installation ####
 
-Copy/Paste this directory. Pretty simple..
+Copy/Paste this directory. Pretty simple...
 
 #### Setup ####
 
