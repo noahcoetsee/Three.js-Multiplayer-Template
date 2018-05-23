@@ -11,21 +11,38 @@
 [Help](http://stackoverflow.com/questions/tagged/three.js)
 
 
-### Three.js Mutltiplayer Template ####
+### Three.js Multiplayer Template ####
 This is a Socket.io and Express powered template for a multiplayer three.js game using NodeJS.
 
 ### USAGE: ###
 
+After installing this directory, go into it, and in a terminal, do node app.js and success! You're now running!
+
 #### Installation ####
+
+Copy/Paste this directory. Pretty simple..
 
 #### Setup ####
 
+There's not much to be done to setup this to work, however, you will have to add your own socket events in app.js and index.html
+
 #### Configuration ####
+
+In the config file, you can customize some minor things, for instance, which port the client/server is hosted on, and dependencies, and some other neat options. Remember, this is meant to be a template, not some monster of a game that you can customize to your every need.
 
 #### Customization ####
 
+There's a ton of things that could be done to configure this, so I won't cover all of them, however, here are a few key examples as to what could be customized.
+
+- app.js (node packages, socket events, etc)
+- main.css and ui.css *must* be customized to your specific needs (even though main.css does contain some boilerplate code)
+- main.js is where the real magic happens. Customize this file as you see fit.
 
 ### Contribution ###
 
+If you wish to contribute, please contact me via [my email](mailto:noahcoder77@gmail.com)
+
 #### Contributers ####
+
+[TheCodeCrafter](https://github.com/TheCodeCrafter)
 
