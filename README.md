@@ -29,19 +29,19 @@ main.css :: simple container styles to make it appear cleaner on the webpage
 ui.css :: styling for the UI (probably going to be the longest CSS file here)
 ```
 
-#### Installation ####
+### Installation ###
 
 Copy/Paste this directory. Pretty simple...
 
-#### Setup ####
+### Setup ###
 
 There's not much to be done to setup this to work, however, you will have to add your own socket events in app.js and index.html
 
-#### Configuration ####
+### Configuration ###
 
 In the config file, you can customize some minor things, for instance, which port the client/server is hosted on, and dependencies, and some other neat options. Remember, this is meant to be a template, not some monster of a game that you can customize to your every need.
 
-#### Customization ####
+### Customization ###
 
 There's a ton of things that could be done to configure this, so I won't cover all of them, however, here are a few key examples as to what could be customized.
 
@@ -51,9 +51,8 @@ There's a ton of things that could be done to configure this, so I won't cover a
 
 ### Contribution ###
 
-If you wish to contribute, please contact me via [my email](mailto:noahcoder77@gmail.com)
+If you wish to contribute, please contact me via the Github issues page. Thanks!
 
-#### Contributers ####
+### Contributers ###
 
 [TheCodeCrafter](https://github.com/TheCodeCrafter)
-
